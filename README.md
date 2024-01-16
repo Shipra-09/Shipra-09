@@ -8,7 +8,7 @@ Data Science Enthusiast
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [shiprach.work@gmail.com](mailto:shiprach.work@gmail.com)
-* 🚀  I'm currently working on [Machine Learning Projects]([https://github.com/Shipra-09/Project-Health-Insurance])
+* 🚀  I'm currently working on [Machine Learning Projects](https://github.com/Shipra-09/Project-Health-Insurance)
 * 🧠  I'm learning Python, ML, SQL, Tableau, Power BI
 * 🤝  I'm open to collaborating on Projects on Machine Learning, Python.
 * ⚡  "Debugging life with a sprinkle of humor and a dash of code magic! ✨😄"
